@@ -7,10 +7,10 @@ Advisor : <b>Prof. Pabitra Mitra</b> <i>(IIT Kharagpur)</i>
 <p> Data : Memorial Sloan Kettering Cancer Center (MSKCC)</p>
 <p> Download training_variants.zip and training_text.zip from Kaggle.</p> 
 
-<h6> Context:</h6>
+<h6> Context :</h6>
 <p> Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/discussion/35336#198462</p>
 
-<h6> Problem statement : </h6>
+<h6> Problem statement :</h6>
 <p> Classify the given genetic variations/mutations based on evidence from text-based clinical literature. </p>
 
 <h3>1.2. Real-world/Business objectives and constraints</h3>
