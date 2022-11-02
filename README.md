@@ -14,10 +14,10 @@ Advisor : Prof. Pabitra Mitra (IIT Kharagpur)</br>
 <p> Classify the given genetic variations/mutations based on evidence from text-based clinical literature. </p>
 
 <h2>1.2. Real-world/Business objectives and constraints.</h2>
-  * No low-latency requirement.
-  * Interpretability is important.
-  * Errors can be very costly.
-  * Probability of a data-point belonging to each class is needed.
+   * No low-latency requirement.</br>
+   * Interpretability is important.</br>
+   * Errors can be very costly.</br>
+   * Probability of a data-point belonging to each class is needed.</br>
 
 <h1>2. Machine Learning Problem Formulation</h1>
 <h2>2.1. Data</h2>
