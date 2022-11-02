@@ -59,9 +59,12 @@ ID,Text <br>
   There are nine different classes a genetic mutation can be classified into => Multi class classification problem
 </p>
 <h4>2.2.2. Performance Metric(s)</h4>
-Metric(s): 
-* Multi class log-loss 
-* Confusion matrix 
+<p>
+    <ul>
+        <li>Multi class log-loss</li>
+        <li>Confusion matrix</li>
+    </ul>
+ <p>
 
 <h4>2.2.3. Machine Learing Objectives and Constraints</h4>
 <p> Objective : 
