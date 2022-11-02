@@ -30,11 +30,11 @@ Advisor : <b>Prof. Pabitra Mitra (IIT Kharagpur)</b>
   <ul>
     <li>Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data</li>
     <li>We have two data files: one conatins the information about the genetic mutations and the other contains the clinical evidence (text) that  human experts/pathologists use to classify the genetic mutations.</li>
-    <li>Both these data files are have a common column called ID</li>
+    <li>Both these data files are have a common column called : ID</li>
    </ul>
 </p>
-- <p> 
-    Data file's information:
+<p> 
+   Data file's information:
     <ul> 
         <li>
         training_variants (ID , Gene, Variations, Class)
