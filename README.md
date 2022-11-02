@@ -4,7 +4,7 @@ Advisor : <b>Prof. Pabitra Mitra</b> <i>(IIT Kharagpur)</i>
 <h2>1. Business Problem</h2>
 <h3>1.1. Description</h3>
 <p> Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/ </p>
-<p> Data: Memorial Sloan Kettering Cancer Center (MSKCC)</p>
+<p> Data : Memorial Sloan Kettering Cancer Center (MSKCC)</p>
 <p> Download training_variants.zip and training_text.zip from Kaggle.</p> 
 
 <h6> Context:</h6>
