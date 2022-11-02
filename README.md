@@ -72,8 +72,12 @@ Metric(s):
 * Confusion matrix 
 
 <h4>2.2.3. Machine Learing Objectives and Constraints</h4>
-<p> Objective: Predict the probability of each data-point belonging to each of the nine classes.</p>
-<p> Constraints:
+<p> Objective : 
+    <ul>
+        <li>Predict the probability of each data-point belonging to each of the nine classes.</li>
+     </ul>
+</p>
+<p> Constraints :
     <ul>
         <li>Interpretability</li>
         <li>Class probabilities are needed.</li>
