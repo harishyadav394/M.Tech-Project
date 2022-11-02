@@ -1,4 +1,4 @@
-# M.Tech-Project
+<p style="font-size:36px;text-align:center"> <b>Personalized cancer diagnosis</b> </p>
 Advisor : <b>Prof. Pabitra Mitra</b> <i>(IIT Kharagpur)</i>
 
 <h2>1. Business Problem</h2>
