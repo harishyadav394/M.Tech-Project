@@ -3,12 +3,7 @@ Advisor : <b>Prof. Pabitra Mitra</b> <i>(IIT Kharagpur)</i>
 
 <h2>1. Business Problem</h2>
 <h3>1.1. Description</h3>
-<p> Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/ </p>
 <p> Data : Memorial Sloan Kettering Cancer Center (MSKCC)</p>
-<p> Download training_variants.zip and training_text.zip from Kaggle.</p> 
-
-<h6> Context :</h6>
-<p> Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/discussion/35336#198462</p>
 
 <h6> Problem statement :</h6>
 <p> Classify the given genetic variations/mutations based on evidence from text-based clinical literature. </p>
@@ -28,7 +23,6 @@ Advisor : <b>Prof. Pabitra Mitra</b> <i>(IIT Kharagpur)</i>
 <h4>2.1.1. Data Overview</h4>
 <p>
   <ul>
-    <li>Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment/data</li>
     <li>We have two data files: one conatins the information about the genetic mutations and the other contains the clinical evidence (text) that  human experts/pathologists use to classify the genetic mutations.</li>
     <li>Both these data files are have a common column called : ID</li>
    </ul>
