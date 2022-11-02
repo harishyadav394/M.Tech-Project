@@ -64,14 +64,15 @@ Metric(s):
 * Confusion matrix 
 
 <h3>2.2.3. Machine Learing Objectives and Constraints</h3>
-<p> Objective: Predict the probability of each data-point belonging to each of the nine classes.
-</p>
+<p> Objective: Predict the probability of each data-point belonging to each of the nine classes.</p>
 <p> Constraints:
+    <ul>
+        <li>Interpretability</li>
+        <li>Class probabilities are needed.</li>
+        <li>Penalize the errors in class probabilites => Metric is Log-loss.</li>
+        <li>No Latency constraints.</li>
+     </ul>
 </p>
-  * Interpretability
-  * Class probabilities are needed.
-  * Penalize the errors in class probabilites => Metric is Log-loss.
-  * No Latency constraints.
 
 <h2>2.3. Train, CV and Test Datasets</h2>
  Split the dataset randomly into three parts train, cross validation and test with 64%,16%, 20% of data respectively
