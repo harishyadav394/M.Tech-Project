@@ -58,8 +58,8 @@ ID,Text <br>
 <p>
   There are nine different classes a genetic mutation can be classified into => Multi class classification problem
 </p>
-<h4>2.2.2. Performance Metric(s)</h4>
-<p>
+<h4>2.2.2. Performance Metric</h4>
+<p>Metric(s) :
     <ul>
         <li>Multi class log-loss</li>
         <li>Confusion matrix</li>
