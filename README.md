@@ -13,7 +13,7 @@ Advisor : <b>Prof. Pabitra Mitra (IIT Kharagpur)</b>
 <h6> Problem statement : </h6>
 <p> Classify the given genetic variations/mutations based on evidence from text-based clinical literature. </p>
 
-<h3>1.2. Real-world/Business objectives and constraints :</h3>
+<h3>1.2. Real-world/Business objectives and constraints</h3>
 <p>
     <ul>
         <li>No low-latency requirement.</li>
@@ -34,7 +34,7 @@ Advisor : <b>Prof. Pabitra Mitra (IIT Kharagpur)</b>
    </ul>
 </p>
 <p> 
-   Data file's information:
+   Data file's information :
     <ul> 
         <li>
         training_variants (ID , Gene, Variations, Class)
@@ -83,4 +83,5 @@ Metric(s):
 </p>
 
 <h3>2.3. Train, CV and Test Datasets</h3>
+
  Split the dataset randomly into three parts train, cross validation and test with 64%,16%, 20% of data respectively
