@@ -1,5 +1,5 @@
 # M.Tech-Project
-Advisor : <b>Prof. Pabitra Mitra (IIT Kharagpur)</b>
+Advisor : <b>Prof. Pabitra Mitra</b> <it>(IIT Kharagpur)</it>
 
 <h2>1. Business Problem</h2>
 <h3>1.1. Description</h3>
