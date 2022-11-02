@@ -58,9 +58,7 @@ ID,Text <br>
 <p>
   There are nine different classes a genetic mutation can be classified into => Multi class classification problem
 </p>
-<h4>2.2.2. Performance Metric</h4>
-Source: https://www.kaggle.com/c/msk-redefining-cancer-treatment#evaluation
-
+<h4>2.2.2. Performance Metric(s)</h4>
 Metric(s): 
 * Multi class log-loss 
 * Confusion matrix 
